@@ -2,7 +2,7 @@
 
 from binascii import hexlify, unhexlify
 from itertools import izip_longest
-import tkinter as tk
+import Tkinter as tk
 
 import tkFileDialog as tk_file_dialog
 
